@@ -1,0 +1,19 @@
+{
+  "name": "Han's Website",
+  "description": "Han's Website",
+  "main": "",
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor/",
+    "test",
+    "tests"
+  ]
+}
